@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Ranadeep Sarkar</string>
+    <string name="owner_name">RANADEEP SARKAR</string>
+    <string name="assistant_subtitle">PERSONAL AI ASSISTANT</string>
+    <string name="system_badge">JARVIS SYSTEM</string>
+
+    <string name="nav_console">কনসোল</string>
+    <string name="nav_settings">সেটিংস ও অনুমতি</string>
+
+    <string name="action_start_listening">শুনুন (Start)</string>
+    <string name="action_stop_listening">থামুন (Stop)</string>
+    <string name="action_send_command">পাঠান</string>
+    <string name="input_placeholder">Boss, বাংলায় বা ইংরেজিতে লিখুন অথবা বলুন…</string>
+
+    <string name="status_mic_ready">মাইক্রোফোন প্রস্তুত</string>
+    <string name="status_mic_permission_needed">মাইক্রোফোন অনুমতি প্রয়োজন</string>
+    <string name="status_service_active">ব্যাকগ্রাউন্ড সার্ভিস চালু</string>
+    <string name="status_service_stopped">ব্যাকগ্রাউন্ড সার্ভিস বন্ধ</string>
+
+    <string name="ai_placeholder_notice">নোট: Firebase AI Logic সক্রিয় না থাকায় সাধারণ কথোপকথন নমুনা (Placeholder) মোডে চলছে। ভয়েস ওয়েক-ওয়ার্ড, বাংলা TTS, অ্যাপ খোলা, টর্চ, ভলিউম ও ফোনের তথ্য সম্পূর্ণ সচল রয়েছে।</string>
+
+    <string name="notification_channel_name">JARVIS ব্যাকগ্রাউন্ড অ্যাসিস্ট্যান্ট</string>
+    <string name="notification_channel_desc">ব্যাকগ্রাউন্ডে JARVIS ভয়েস কমান্ড ও ওয়েক-ওয়ার্ড স্ট্যাটাস প্রদর্শন করে</string>
+    <string name="notification_title">JARVIS সিস্টেম সক্রিয়</string>
+    <string name="notification_listening">Boss, আমি শুনছি — \"Hey JARVIS\" বা \"হে জার্ভিস\" বলুন</string>
+    <string name="notification_paused">JARVIS ব্যাকগ্রাউন্ডে অপেক্ষমাণ (Start চাপুন)</string>
+    <string name="notification_action_start">শুনুন</string>
+    <string name="notification_action_stop">থামান</string>
+    <string name="notification_action_shutdown">বন্ধ করুন</string>
+
+    <string name="cd_ra_logo">Ranadeep Sarkar RA futuristic emblem</string>
+    <string name="cd_settings_button">Open settings and permissions</string>
+    <string name="cd_back_button">Back to JARVIS console</string>
+    <string name="cd_mic_toggle">Toggle voice listening</string>
+    <string name="cd_send_message">Send message to JARVIS</string>
+</resources>

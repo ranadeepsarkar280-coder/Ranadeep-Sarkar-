@@ -1,0 +1,6 @@
+{
+  "name": "Ranadeep Sarkar",
+  "description": "JARVIS — Personal Bengali AI Assistant for Ranadeep Sarkar featuring wake-word voice activation, Gemini AI conversation, Bengali TTS, foreground microphone service, app launcher, and Android hardware controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
